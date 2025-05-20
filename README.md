@@ -1,22 +1,3 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <title>5 Columns and 2 Rows</title>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-        }
-        td {
-            border: 1px solid #333;
-            padding: 10px;
-            text-align: center;
-        }
-    </style>
-</head>
-<body>
-
 <table>
     <tr>
         <td>Row 1, Col 1</td>
@@ -35,4 +16,3 @@
 </table>
 
 </body>
-</html>
